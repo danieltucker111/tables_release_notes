@@ -79,3 +79,9 @@ v.1.5.3.a - small fix v.1.5.3.b - triggered update to user table to clear ab and
 * Agenda Builder: Fixed layout and Notes Section -- Issues with wrapping
 * Agenda Builder: Added pdf downloads to emails being sent for agendas
 * Org Admin - Org Members: Enable Search only when ""View Active Only"" selected "
+
+### Release Version 1.5.9 (3/18/2023)
+
+* Strategies & Values: Set ""N/A"" as default for Closed Reason values/strats
+* Values: Fixed closed Value view - showing as Closed instead of Active.
+* Agenda Builder: Updated the Alerts popup on the Agenda Builder
