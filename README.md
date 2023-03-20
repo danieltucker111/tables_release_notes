@@ -84,4 +84,8 @@ v.1.5.3.a - small fix v.1.5.3.b - triggered update to user table to clear ab and
 
 * Strategies & Values: Set ""N/A"" as default for Closed Reason values/strats
 * Values: Fixed closed Value view - showing as Closed instead of Active.
-* Agenda Builder: Updated the Alerts popup on the Agenda Builder
+
+### Release Version 1.5.10 (3/20/2023)
+
+* Agenda Builder: Updated the Alerts popup on the Agenda Builder > moved it lower on the screen&#x20;
+* Plugins: PDF Plugin Version Upgrade from 1.77 to 1.83
