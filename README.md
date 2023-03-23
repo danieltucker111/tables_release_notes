@@ -6,6 +6,19 @@ description: >-
 
 # Release & Feature Notes
 
+### Release Version 1.5.11  (3/23/2023)
+
+* Agenda Builder: Auto Create Four Empty Agenda Topics
+* Login: Added Keep Me Logged In feature
+* Data Security: Changes to org\_member DB Rules for Admin
+* Table: Only show org members in the Participants dropdown for tbl details
+* DTBM: Only show org members in the decision maker dropdown for dtbm details
+* Reports: Only show org members in the jod\_rpt\_tbl\_gb\_people report
+* Agenda Builder: Only show org members in the staff, board, & community members dropdown for attendees
+* Org Member: Only show org members in the org\_member dashboard
+* Org Admin - Org Members: Only show org members in the Admin\_org\_member dashboard
+* Community Members: Only show org members in the community\_member dashboard
+
 ### Release Version 1.5.10 (3/20/2023)
 
 * Agenda Builder: Updated the Alerts popup on the Agenda Builder > moved it lower on the screen&#x20;
