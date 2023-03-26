@@ -6,6 +6,10 @@ description: >-
 
 # Release & Feature Notes
 
+### Release Version 1.5.12 (3/26/2023)&#x20;
+
+* Super Admin Console: Active Users Updates - see detailed notes.
+
 ### Release Version 1.5.11  (3/23/2023)
 
 * Agenda Builder: Auto Create Four Empty Agenda Topics
