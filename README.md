@@ -6,6 +6,12 @@ description: >-
 
 # Release & Feature Notes
 
+### Release Version 1.5.13 (3/26/2023)
+
+* &#x20;Agenda Builder: Ability to access DTBMs from agenda builder (see notes)
+* Reports: Update Decisions Made report from Non-DTBM to Real-Time
+* Reports: Bug: Closed DTBM Report date filter fix
+
 ### Release Version 1.5.12 (3/26/2023)&#x20;
 
 * Super Admin Console: Active Users Updates - see detailed notes.
