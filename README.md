@@ -1,10 +1,15 @@
 ---
 description: >-
-  This page outlines (and in some cases, details) the major and minor feature
-  releases made to the JustOrg Design Tables application.
+  This page outlines (or may detail) the major and minor feature releases made
+  to the JustOrg Design Tables application. Releases are listed in chronological
+  descending order - latest first.
 ---
 
 # JoD Release & Feature Notes
+
+{% hint style="info" %}
+## CURRENT RELEASE
+{% endhint %}
 
 ## Release Version 1.6.5 (4/19/2023)
 
@@ -71,7 +76,17 @@ Finally, we’ve created an in-application notification system. Its primary bene
 
 </details>
 
-\----------------------------------------------------------
+
+
+
+
+
+
+
+
+{% hint style="info" %}
+## PREVIOUS RELEASES
+{% endhint %}
 
 ## Release Version 1.5.13 (3/26/2023)
 
