@@ -46,7 +46,7 @@ Thriving Tables require continuous nurturing, including thoughtful planning betw
 
 <details>
 
-<summary>Sensemaking</summary>
+<summary>New Feature: Sensemaking</summary>
 
 Turn responses to a Capture Board topic into meaningful, actionable information. Get to the essence of Capture Board topics and responses quickly with a powerful new tool for sensemaking. Once you’ve completed a list of responses to a topic, you can send it to the Sensemaking tool where you can collaboratively:
 
@@ -70,7 +70,7 @@ We’ve noticed that accessing the notes section of the agenda at the beginning 
 
 <details>
 
-<summary>In-Application Notifications</summary>
+<summary>New Feature: In-Application Notifications</summary>
 
 Finally, we’ve created an in-application notification system. Its primary benefits are to reduce the amount of email clutter and still allow you all to stay up-to-date with new features, productivity hacks, training tips, etc. These notifications can be permanently dismissed or you can just click the close \[X] and we’ll remind you again in 24 hours.
 
