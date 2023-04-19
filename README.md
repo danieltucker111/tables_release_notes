@@ -38,7 +38,7 @@ Thriving Tables require continuous nurturing, including thoughtful planning betw
 
 #### New Feature: Sensemaking
 
-Turn responses to a Capture Board topic into meaningful, actionable information. Get to the essence of Capture Board topics and responses quickly with a powerful new tool for sensemaking. Once you’ve completed a list of responses to a topic, you can send it to the Sensemaking tool where you can collaboratively:
+Turn responses to a Capture Board topic into meaningful, actionable information. Group content in real-time to advance strategic conversations with a powerful new tool for sensemaking. Once you’ve completed a list of responses to a topic, you can send it to the Sensemaking tool where you can collaboratively:
 
 * Create groupings (buckets)&#x20;
 * Move responses into buckets&#x20;
@@ -50,7 +50,7 @@ Turn responses to a Capture Board topic into meaningful, actionable information.
 
 #### Changes to the Agenda Builder
 
-We’ve noticed that accessing the notes section of the agenda at the beginning of a meeting has been a bit of a pain for Table Conveners and note takers. Well, hopefully we’ve fixed that. Now the notes section is visible all of the time – even when empty, so that Conveners and note takers can get started without having to do anything. We’ve also moved the meeting-related strategies to the top section along with the meeting purpose. And, we’ve added the ability to link related Conversations to the agenda, similar to (and right next to) linked DTBMs.
+We’ve noticed that accessing the notes section of the agenda at the beginning of a meeting has been a bit of a pain for Table Conveners and note takers. Well, hopefully we’ve fixed that. Now the notes section is visible all of the time – even when empty, so that Conveners and note takers can get started right away. We’ve also moved the meeting-related strategies to the top section along with the meeting purpose. And, we’ve added the ability to link related Conversations to the agenda, similar to (and right next to) linked DTBMs.
 
 #### New Feature: In-Application Notifications
 
