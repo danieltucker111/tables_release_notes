@@ -17,9 +17,7 @@ description: >-
 
 This latest release has powerful new tools that will help Tables ideate, capture, synthesize, and activate the most important choices for driving strategies forward. We are in the process of writing training material for each of the features below and will notify you as they are ready. For now, we want to let you know what they are.
 
-<details>
-
-<summary>New Feature: Conversations</summary>
+#### New Feature: Conversations
 
 Strategic conversations are core to Table meetings. These key conversations are what keep Tables thriving and decisions moving. With the JoD Conversations tool, Tables can plan key conversations well in advance (and collaboratively if desired). Doing so can help Tables in many ways:&#x20;
 
@@ -29,11 +27,7 @@ Strategic conversations are core to Table meetings. These key conversations are 
 * Capture ongoing notes for each conversation – memorializing agreements
 * Ability to link one or more DTBMs to a given conversation in order to better understand the connection between conversations, DTBMs, and strategies.
 
-</details>
-
-<details>
-
-<summary>New Feature: Table Planner</summary>
+#### New Feature: Table Planner
 
 Thriving Tables require continuous nurturing, including thoughtful planning between meetings. The Table Planner is a single place to organize and link a Table's active Conversations, Decisions-to-be-Made (DTBMs), and upcoming Table Meeting Agendas.
 
@@ -42,11 +36,7 @@ Thriving Tables require continuous nurturing, including thoughtful planning betw
 * Make visible to Table members an always up-to-date and holistic view of a Table’s plan.&#x20;
 * Know who (other than existing Table members) to invite to the conversation (meeting) well in advance.
 
-</details>
-
-<details>
-
-<summary>New Feature: Sensemaking</summary>
+#### New Feature: Sensemaking
 
 Turn responses to a Capture Board topic into meaningful, actionable information. Get to the essence of Capture Board topics and responses quickly with a powerful new tool for sensemaking. Once you’ve completed a list of responses to a topic, you can send it to the Sensemaking tool where you can collaboratively:
 
@@ -58,23 +48,17 @@ Turn responses to a Capture Board topic into meaningful, actionable information.
 * Rename your topic
 * Export the final version of the distilled topic where it can be shared to an agenda or copied and shared anywhere.
 
-</details>
-
-<details>
-
-<summary>Changes to the Agenda Builder</summary>
+#### Changes to the Agenda Builder
 
 We’ve noticed that accessing the notes section of the agenda at the beginning of a meeting has been a bit of a pain for Table Conveners and note takers. Well, hopefully we’ve fixed that. Now the notes section is visible all of the time – even when empty, so that Conveners and note takers can get started without having to do anything. We’ve also moved the meeting-related strategies to the top section along with the meeting purpose. And, we’ve added the ability to link related Conversations to the agenda, similar to (and right next to) linked DTBMs.
 
-</details>
-
-<details>
-
-<summary>New Feature: In-Application Notifications</summary>
+#### New Feature: In-Application Notifications
 
 Finally, we’ve created an in-application notification system. Its primary benefits are to reduce the amount of email clutter and still allow you all to stay up-to-date with new features, productivity hacks, training tips, etc. These notifications can be permanently dismissed or you can just click the close \[X] and we’ll remind you again in 24 hours.
 
-</details>
+
+
+\----------------------------------------------------------
 
 
 
