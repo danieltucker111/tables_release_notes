@@ -11,6 +11,16 @@ description: >-
 ## CURRENT RELEASE
 {% endhint %}
 
+## Release Version 1.6.6 (5/28/2023)
+
+#### Now you can sort Agenda Topics using drag-and-drop functionality! &#x20;
+
+{% embed url="https://www.loom.com/share/96ef871040324eeaa027f1ef387b4c66" %}
+
+{% hint style="info" %}
+## PREVIOUS RELEASES
+{% endhint %}
+
 ## Release Version 1.6.5 (4/19/2023)
 
 #### We've introduced new features to help Tables be even more strategic!
@@ -59,18 +69,6 @@ Finally, we’ve created an in-application notification system. Its primary bene
 
 
 \----------------------------------------------------------
-
-
-
-
-
-
-
-
-
-{% hint style="info" %}
-## PREVIOUS RELEASES
-{% endhint %}
 
 ## Release Version 1.5.13 (3/26/2023)
 
