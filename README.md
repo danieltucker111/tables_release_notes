@@ -13,9 +13,20 @@ description: >-
 
 ## Release Version 1.6.6 (5/28/2023)
 
-#### Now you can sort Agenda Topics using drag-and-drop functionality! &#x20;
+#### Featured Update: Now you can sort Agenda Topics using drag-and-drop functionality! &#x20;
 
 {% embed url="https://www.loom.com/share/96ef871040324eeaa027f1ef387b4c66" %}
+Sort Agenda Topics using drag-and-drop
+{% endembed %}
+
+#### All Updates in this Release
+
+* Agenda Builder: Drag-and-Drop for Agenda Topics
+* Capture Board: Vote (check) Icon Changed to Thumbs Up
+* Capture Board: fix Block-Responses Icons and workflow for Capture Board
+  * Green pencil icon represents All Table Participants being able to add responses&#x20;
+  * Red crossed pencil icon represents Non-Convener Table Participants are blocked from adding responses.&#x20;
+* Plugins: Rich Text plugin update
 
 {% hint style="info" %}
 ## PREVIOUS RELEASES
